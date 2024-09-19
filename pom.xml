@@ -200,7 +200,7 @@
   </build>
 
   <properties>
-    <cql.version>3.15.0</cql.version>
+    <cql.version>3.14.0</cql.version>
     <jersey.version>3.1.8</jersey.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
